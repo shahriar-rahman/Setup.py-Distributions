@@ -46,6 +46,7 @@ More Resources
 -   [Official Python Packaging User Guide](https://packaging.python.org)
 -   [The Hitchhiker's Guide to Packaging]
 -   [Cookiecutter template for a Python package]
+-   [Geeks for geeks Tutorial](https://www.geeksforgeeks.org/what-is-setup-py-in-python/)
 
 License
 -------
